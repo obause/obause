@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Scalefree International <br>🌱 I’m currently learning Python
+🔭 I’m currently working at Scalefree International <br>🌱 I’m currently learning Django
 
 
 ## 🌐 Socials:
