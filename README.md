@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=obause&theme=dark&hide_border=true)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=obause&langs_count=20&include_all_commits=true&count_private=true)<br/>-->
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=obause&langs_count=6&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook&exclude_repo=github-stats-api -->
-![](https://github-stats-d4011kxvt-bause.vercel.app/api/top-langs/?username=obause&langs_count=6&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook&exclude_repo=github-stats-api)
+![](https://github-stats-d4011kxvt-bause.vercel.app/api/top-langs/?username=obause&langs_count=6&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Jupyter%20Notebook,JavaScript&exclude_repo=github-stats-api)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
